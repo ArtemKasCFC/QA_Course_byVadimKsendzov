@@ -1,1 +1,12 @@
-{}
+{
+    "bugReport": {
+                     "id": 1,
+                     "title":"",
+                     "severity": "",
+                     "priority": "",
+                     "STR": "",
+                     "ER": "",
+                     "AR": "", 
+                     "attach"
+                 }
+}
